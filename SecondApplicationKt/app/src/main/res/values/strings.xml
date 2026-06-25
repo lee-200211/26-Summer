@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecondApplicationKt</string>
+    <string name="worldcup_image_description">월드컵 트로피 사진</string>
+</resources>
